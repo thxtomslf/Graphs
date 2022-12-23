@@ -2,7 +2,7 @@
 // Created by Pavel on 23.12.2022.
 //
 
-#include "SetGraph.h"
+#include "../include/SetGraph.h"
 
 SetGraph::SetGraph(size_t verticesCount) : verticesCount(verticesCount), graph(verticesCount) {}
 

@@ -1,9 +1,9 @@
 #include <iostream>
 
-#include "ListGraph.h"
-#include "ArcGraph.h"
-#include "SetGraph.h"
-#include "MatrixGraph.h"
+#include "include/ListGraph.h"
+#include "src/ArcGraph.h"
+#include "include/SetGraph.h"
+#include "include/MatrixGraph.h"
 
 
 int main() {

@@ -2,7 +2,7 @@
 // Created by Pavel on 23.12.2022.
 //
 
-#include "MatrixGraph.h"
+#include "../include/MatrixGraph.h"
 
 MatrixGraph::MatrixGraph(size_t verticesCount) : verticesCount(verticesCount) {
     graph = new int*[verticesCount];

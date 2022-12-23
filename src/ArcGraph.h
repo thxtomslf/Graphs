@@ -5,7 +5,7 @@
 #ifndef GRAPHS_ARCGRAPH_H
 #define GRAPHS_ARCGRAPH_H
 
-#include "IGraph.h"
+#include "../include/IGraph.h"
 
 struct ArcGraph : public IGraph {
 public:

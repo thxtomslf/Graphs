@@ -1,7 +1,7 @@
 //
 // Created by Pavel on 23.12.2022.
 //
-#include "ListGraph.h"
+#include "../include/ListGraph.h"
 
 ListGraph::ListGraph(size_t verticesCount) : graph(verticesCount), verticesCount(verticesCount) {}
 
